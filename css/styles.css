@@ -1,0 +1,42 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: medium;
+}
+header {
+    color: blue;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+p {
+    font-weight:lighter;
+}
+
+div .box {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    flex-direction: column;
+    
+}
+
+section{
+    background-color: antiquewhite;
+}
+
+.sec {
+    flex-wrap: nowrap;
+    border: solid 1px;
+    border-color: gray;
+    text-align: center;
+    width: 80%;
+    gap: 15px;
+    justify-content: space-evenly;
+}
+
+footer {
+    font-size: small;
+    background-color: rgb (20,30,40);
+    text-align: end;
+}
