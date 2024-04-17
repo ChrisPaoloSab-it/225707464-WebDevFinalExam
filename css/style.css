@@ -1,0 +1,11 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #151;
+}
+p {
+    font-weight: bold;
+}
+
+div .box {
+    display: flex;
+}
